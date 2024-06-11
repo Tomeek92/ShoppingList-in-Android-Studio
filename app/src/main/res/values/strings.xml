@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="loginText" translatable="false">Login...</string>
+    <string name="passwordKey">Password...</string>
+    <string name="btnLogin">Login</string>
+    <string name="buttonRegister">Register now!</string>
+    <string name="errorTitle">Error!</string>
+    <string name="ErrorEmptyFields">The fields should not be empty!</string>
+    <string name="errorLoginIncorrect">Login and/or passwod is not correct.</string>
+    <string name="emailText" translatable="false">E-mail...</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="infoRegisterSuccessful">Your account has been registered!</string>
+    <string name="errorAccountExists">An account with that user name exist.</string>
+    <string name="buttonAddProduct">Add product</string>
+    <string name="textProductName">Name...</string>
+    <string name="textProductDescription">Description...</string>
+    <string name="productAdded">Product has been added</string>
+    <string name="errorApi" translatable="false">Error!</string>
+    <string name="DeleteText">Delete</string>
+    <string name="DeleteConfirmText">Do you want delete product?</string>
+    <string name="DeleteConfirmedText">Product has been deleted.</string>
+    <string name="errorDeleteFailed">The product could not be removed.</string>
+    <string name="buttonCancel">Cancel</string>
+</resources>

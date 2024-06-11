@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zakupik</string>
+    <string name="passwordKey">Hasło...</string>
+    <string name="btnLogin">Zaloguj</string>
+    <string name="buttonRegister">Zarejestruj się!</string>
+    <string name="errorTitle">Błąd!</string>
+    <string name="ErrorEmptyFields">Pola nie powinny być puste!</string>
+    <string name="errorLoginIncorrect">Login i/lub hasło są niepoprawne.</string>
+    <string name="buttonSubmit">Zatwierdź</string>
+    <string name="infoRegisterSuccessful">Twoje konto zostało zarejestrowane!</string>
+    <string name="errorAccountExists">Konto z nazwą użytkownika istnieje.</string>
+    <string name="buttonAddProduct">Dodaj produkt</string>
+    <string name="textProductName">Nazwa...</string>
+    <string name="textProductDescription">Opis...</string>
+    <string name="productAdded">Dodano produkt</string>
+    <string name="DeleteText">Usuń</string>
+    <string name="DeleteConfirmText">Czy na pewno chcesz usunąć ten produkt z listy?</string>
+    <string name="DeleteConfirmedText">Produkt został usunięty.</string>
+    <string name="errorDeleteFailed">Nie udało się usunąć produktu.</string>
+    <string name="buttonCancel">Anuluj</string>
+</resources>
